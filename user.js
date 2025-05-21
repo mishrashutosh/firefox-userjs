@@ -41,13 +41,13 @@ user_pref("browser.urlbar.update2.engineAliasRefresh", true);
 
 
 // ### these configs are specific to my setup, may not be useful for everyone
-// user_pref("browser.uiCustomization.state", "{\"placements\":{\"widget-overflow-fixed-list\":[],\"unified-extensions-area\":[\"ublock0_raymondhill_net-browser-action\",\"addon_darkreader_org-browser-action\"],\"nav-bar\":[\"back-button\",\"forward-button\",\"stop-reload-button\",\"customizableui-special-spring1\",\"vertical-spacer\",\"urlbar-container\",\"customizableui-special-spring2\",\"save-to-pocket-button\",\"logins-button\",\"downloads-button\",\"screenshot-button\",\"developer-button\",\"panic-button\",\"privatebrowsing-button\",\"unified-extensions-button\"],\"toolbar-menubar\":[\"menubar-items\"],\"TabsToolbar\":[\"tabbrowser-tabs\",\"new-tab-button\",\"alltabs-button\"],\"vertical-tabs\":[],\"PersonalToolbar\":[\"personal-bookmarks\"]},\"seen\":[\"save-to-pocket-button\",\"developer-button\",\"ublock0_raymondhill_net-browser-action\",\"addon_darkreader_org-browser-action\"],\"dirtyAreaCache\":[\"nav-bar\",\"vertical-tabs\",\"PersonalToolbar\",\"TabsToolbar\",\"toolbar-menubar\",\"unified-extensions-area\"],\"currentVersion\":22,\"newElementCount\":3}");
-// user_pref("media.av1.enabled", false);
-// user_pref("widget.gtk.non-native-titlebar-buttons.enabled", false);
-// user_pref("widget.gtk.rounded-bottom-corners.enabled", true);
-// user_pref("font.name.sans-serif.x-orya", "Noto Sans Oriya");
-// user_pref("font.name.serif.x-orya", "Noto Sans Oriya");
+user_pref("browser.uiCustomization.state", "{\"placements\":{\"widget-overflow-fixed-list\":[],\"unified-extensions-area\":[\"ublock0_raymondhill_net-browser-action\",\"addon_darkreader_org-browser-action\"],\"nav-bar\":[\"back-button\",\"forward-button\",\"stop-reload-button\",\"customizableui-special-spring1\",\"vertical-spacer\",\"urlbar-container\",\"customizableui-special-spring2\",\"save-to-pocket-button\",\"logins-button\",\"downloads-button\",\"screenshot-button\",\"developer-button\",\"panic-button\",\"privatebrowsing-button\",\"unified-extensions-button\"],\"toolbar-menubar\":[\"menubar-items\"],\"TabsToolbar\":[\"tabbrowser-tabs\",\"new-tab-button\",\"alltabs-button\"],\"vertical-tabs\":[],\"PersonalToolbar\":[\"personal-bookmarks\"]},\"seen\":[\"save-to-pocket-button\",\"developer-button\",\"ublock0_raymondhill_net-browser-action\",\"addon_darkreader_org-browser-action\"],\"dirtyAreaCache\":[\"nav-bar\",\"vertical-tabs\",\"PersonalToolbar\",\"TabsToolbar\",\"toolbar-menubar\",\"unified-extensions-area\"],\"currentVersion\":22,\"newElementCount\":3}");
+user_pref("media.av1.enabled", false);
+user_pref("widget.gtk.non-native-titlebar-buttons.enabled", false);
+user_pref("widget.gtk.rounded-bottom-corners.enabled", true);
+user_pref("font.name.sans-serif.x-orya", "Noto Sans Oriya");
+user_pref("font.name.serif.x-orya", "Noto Sans Oriya");
 
 
 // ### this disables firefox sync. only use if you have no plans of using firefox sync
-// user_pref("identity.fxaccounts.enabled", false);
+user_pref("identity.fxaccounts.enabled", false);
